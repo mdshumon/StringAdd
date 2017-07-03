@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\ConfigManagerFile\bin\Debug\netcoreapp1.1\ConfigManagerFile.deps.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\ConfigManagerFile\bin\Debug\netcoreapp1.1\ConfigManagerFile.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\ConfigManagerFile\bin\Debug\netcoreapp1.1\ConfigManagerFile.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\ConfigManagerFile\obj\Debug\netcoreapp1.1\ConfigManagerFile.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\ConfigManagerFile\obj\Debug\netcoreapp1.1\ConfigManagerFile.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\ConfigManagerFile\obj\Debug\netcoreapp1.1\ConfigManagerFile.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\ConfigManagerFile\obj\Debug\netcoreapp1.1\ConfigManagerFile.pdb

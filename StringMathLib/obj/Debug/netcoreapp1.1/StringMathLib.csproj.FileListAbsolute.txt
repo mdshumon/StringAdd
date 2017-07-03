@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringMathLib\bin\Debug\netcoreapp1.1\StringMathLib.deps.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringMathLib\bin\Debug\netcoreapp1.1\StringMathLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringMathLib\bin\Debug\netcoreapp1.1\StringMathLib.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringMathLib\obj\Debug\netcoreapp1.1\StringMathLib.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringMathLib\obj\Debug\netcoreapp1.1\StringMathLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringMathLib\obj\Debug\netcoreapp1.1\StringMathLib.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringMathLib\obj\Debug\netcoreapp1.1\StringMathLib.csprojResolveAssemblyReference.cache

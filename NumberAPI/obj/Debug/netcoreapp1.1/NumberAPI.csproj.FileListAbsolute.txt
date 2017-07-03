@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2017\Projects\StringAdd\NumberAPI\bin\Debug\netcoreapp1.1\NumberAPI.deps.json
+c:\users\administrator\documents\visual studio 2017\Projects\StringAdd\NumberAPI\bin\Debug\netcoreapp1.1\NumberAPI.runtimeconfig.json
+c:\users\administrator\documents\visual studio 2017\Projects\StringAdd\NumberAPI\bin\Debug\netcoreapp1.1\NumberAPI.runtimeconfig.dev.json
+c:\users\administrator\documents\visual studio 2017\Projects\StringAdd\NumberAPI\bin\Debug\netcoreapp1.1\NumberAPI.dll
+c:\users\administrator\documents\visual studio 2017\Projects\StringAdd\NumberAPI\bin\Debug\netcoreapp1.1\NumberAPI.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\StringAdd\NumberAPI\bin\Debug\netcoreapp1.1\StringMathLib.dll
+c:\users\administrator\documents\visual studio 2017\Projects\StringAdd\NumberAPI\bin\Debug\netcoreapp1.1\StringMathLib.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\StringAdd\NumberAPI\obj\Debug\netcoreapp1.1\NumberAPI.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2017\Projects\StringAdd\NumberAPI\obj\Debug\netcoreapp1.1\NumberAPI.AssemblyInfo.cs
+c:\users\administrator\documents\visual studio 2017\Projects\StringAdd\NumberAPI\obj\Debug\netcoreapp1.1\NumberAPI.dll
+c:\users\administrator\documents\visual studio 2017\Projects\StringAdd\NumberAPI\obj\Debug\netcoreapp1.1\NumberAPI.pdb

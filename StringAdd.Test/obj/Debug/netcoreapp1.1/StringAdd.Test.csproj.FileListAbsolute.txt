@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringAdd.Test\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringAdd.Test\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringAdd.Test\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringAdd.Test\bin\Debug\netcoreapp1.1\StringAdd.Test.deps.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringAdd.Test\bin\Debug\netcoreapp1.1\StringAdd.Test.runtimeconfig.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringAdd.Test\bin\Debug\netcoreapp1.1\StringAdd.Test.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringAdd.Test\bin\Debug\netcoreapp1.1\StringAdd.Test.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringAdd.Test\obj\Debug\netcoreapp1.1\StringAdd.Test.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringAdd.Test\obj\Debug\netcoreapp1.1\StringAdd.Test.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringAdd.Test\bin\Debug\netcoreapp1.1\StringAdd.Test.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringAdd.Test\bin\Debug\netcoreapp1.1\StringMathLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringAdd.Test\bin\Debug\netcoreapp1.1\StringMathLib.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringAdd.Test\obj\Debug\netcoreapp1.1\StringAdd.Test.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringAdd.Test\obj\Debug\netcoreapp1.1\StringAdd.Test.pdb

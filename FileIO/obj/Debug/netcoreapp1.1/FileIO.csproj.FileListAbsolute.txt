@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\FileIO\bin\Debug\netcoreapp1.1\FileIO.deps.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\FileIO\bin\Debug\netcoreapp1.1\FileIO.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\FileIO\obj\Debug\netcoreapp1.1\FileIO.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\FileIO\bin\Debug\netcoreapp1.1\FileIO.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\FileIO\obj\Debug\netcoreapp1.1\FileIO.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\FileIO\obj\Debug\netcoreapp1.1\FileIO.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\FileIO\obj\Debug\netcoreapp1.1\FileIO.pdb

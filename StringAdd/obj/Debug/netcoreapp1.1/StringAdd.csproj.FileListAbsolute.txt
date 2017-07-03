@@ -1,0 +1,13 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringAdd\bin\Debug\netcoreapp1.1\StringAdd.deps.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringAdd\bin\Debug\netcoreapp1.1\StringAdd.runtimeconfig.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringAdd\bin\Debug\netcoreapp1.1\StringAdd.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringAdd\bin\Debug\netcoreapp1.1\StringAdd.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringAdd\bin\Debug\netcoreapp1.1\StringAdd.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringAdd\bin\Debug\netcoreapp1.1\StringMathLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringAdd\bin\Debug\netcoreapp1.1\StringMathLib.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringAdd\obj\Debug\netcoreapp1.1\StringAdd.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringAdd\obj\Debug\netcoreapp1.1\StringAdd.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringAdd\obj\Debug\netcoreapp1.1\StringAdd.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringAdd\obj\Debug\netcoreapp1.1\StringAdd.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringAdd\bin\Debug\netcoreapp1.1\ConfigManagerFile.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\StringAdd\bin\Debug\netcoreapp1.1\ConfigManagerFile.pdb

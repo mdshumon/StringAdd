@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\NumberAPICore\bin\Debug\netcoreapp1.1\NumberAPICore.deps.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\NumberAPICore\bin\Debug\netcoreapp1.1\NumberAPICore.runtimeconfig.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\NumberAPICore\bin\Debug\netcoreapp1.1\NumberAPICore.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\NumberAPICore\bin\Debug\netcoreapp1.1\NumberAPICore.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\NumberAPICore\bin\Debug\netcoreapp1.1\NumberAPICore.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\NumberAPICore\bin\Debug\netcoreapp1.1\StringMathLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\NumberAPICore\bin\Debug\netcoreapp1.1\StringMathLib.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\NumberAPICore\obj\Debug\netcoreapp1.1\NumberAPICore.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\NumberAPICore\obj\Debug\netcoreapp1.1\NumberAPICore.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\NumberAPICore\obj\Debug\netcoreapp1.1\NumberAPICore.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\NumberAPICore\obj\Debug\netcoreapp1.1\NumberAPICore.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\NumberAPICore\bin\Debug\netcoreapp1.1\ConfigManagerFile.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\NumberAPICore\bin\Debug\netcoreapp1.1\ConfigManagerFile.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\NumberAPICore\bin\Debug\netcoreapp1.1\FileIO.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StringAdd\NumberAPICore\bin\Debug\netcoreapp1.1\FileIO.pdb
